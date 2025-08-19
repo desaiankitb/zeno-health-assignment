@@ -66,7 +66,9 @@ This project provides basic analytics and predictive insights for Brazilian e-co
 
 ## 📊 Analysis Insights
 
-# Actionable Insignts: 
+### 👥 Delivery Performance Analysis
+
+**Actionable Insignt:** 
 1. Prioritize process improvements in categories with the highest number of late orders (e.g., Electronics). Reduce total late orders in Electronics by X% as a target for the quarter. 
 2. Investigate and resolve issues in categories with the highest late delivery rates (e.g., categories with >Y% late). Reduce late delivery rate in these categories to below Z as a target for the quarter. 
 
