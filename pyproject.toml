@@ -1,0 +1,18 @@
+[project]
+name = "zeno-health-assignment"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+       "pandas",
+       "sqlalchemy",
+       "psycopg2-binary",
+       "ipykernel",
+       "matplotlib",
+       "seaborn",
+       "scikit-learn",
+       "xgboost",
+       "imblearn",
+       "python-dotenv==1.1.1"
+     ]

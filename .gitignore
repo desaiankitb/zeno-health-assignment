@@ -1,0 +1,45 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Python tooling and caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.eggs/
+*.egg
+*.pyd
+.cache/
+
+# Coverage
+.coverage
+coverage.xml
+htmlcov/
+
+# Virtual environments
+.venv
+
+# data folder
+data
+
+#enviroment variables
+.env
+
+.DS_Store
+
+# Logs
+*.log
+
+# IDE/project files
+.vscode/
+.idea/
+
+# macOS extras
+._*
