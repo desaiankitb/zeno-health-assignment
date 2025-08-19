@@ -128,7 +128,6 @@ The project includes predictive modeling capabilities:
 
 - **Customer Churn Prediction**: Identify at-risk customers
 - **Delivery Time Forecasting**: Predict delivery delays
-- **Revenue Forecasting**: Project future sales
 - **Customer Segmentation**: Advanced clustering algorithms
 
 ## 📊 Dashboard Features
