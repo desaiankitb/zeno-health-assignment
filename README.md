@@ -140,14 +140,6 @@ The project includes predictive modeling capabilities:
 2. **Product & Category Analysis**: Product performance and category insights
 3. **Top-line Metrics**: Key business performance indicators
 
-### Key Visualizations
-
-- Delivery performance by product category
-- Customer lifetime value clustering
-- Geographic distribution of orders
-- Payment method analysis
-- Review sentiment analysis
-
 ## 🚀 Production Deployment
 
 ### Docker Setup
